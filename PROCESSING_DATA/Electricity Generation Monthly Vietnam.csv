@@ -1,32 +1,4 @@
-,Electricity Generation: Monthly: Vietnam
-Region,Vietnam
-Subnational,
-Frequency,Monthly
-Unit,GWh
-Source,CEIC Data
-Status,Active
-Series ID,401380157
-SR Code,SR197134257
-Trade Code,
-Mnemonic,
-Function Description,
-First Obs. Date,01/1998
-Last Obs. Date,04/2024
-Last Update Time,29/04/2024
-Series remarks,The General Statistical Office provides year-to-date Electricity Production.
-Suggestions,
-Mean,10093.068654344615
-Variance,48283286.61963244
-Standard Deviation,6948.617604936427
-Skewness,0.5121999517556861
-Kurtosis,-1.0821687555780266
-Coefficient Variation,0.6884544079609879
-Min,1066.2
-Max,24716.22589002
-Median,8336.95
-Sum,3189409.694772899
-Subtract,-23650.02589002
-No. of Obs,316
+Thời gian,Sản lượng
 01/1998,1685.1
 02/1998,1571.1
 03/1998,1814.4
